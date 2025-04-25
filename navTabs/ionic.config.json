@@ -1,0 +1,7 @@
+{
+  "name": "navTabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
